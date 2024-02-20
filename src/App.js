@@ -32,7 +32,7 @@ const RegistrationForm = () => {
       );
       setSubmittedData(htmlContent);
     } else {
-      alert ('bad')
+      alert ('Введите корректный gmail. Пример: reactIsVeryHard@gmail.com')
     }
 
   };
